@@ -1,4 +1,3 @@
-# talkreels
 # TalkReel
 
 Character pictures + a script in, one talking video out. Credits are limited, and people earn more by
